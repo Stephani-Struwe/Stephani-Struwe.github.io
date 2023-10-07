@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Superheroes</title>
+
+        <style>
+            .picture
+            {
+                height: 100px;
+            }
+            td, th
+            {
+                border: 1px solid black;
+                padding: 15px;
+                
+            }
+            table
+            {
+                border-spacing: 0px;
+            }
+            th
+            {
+                background-color: skyblue;
+                font-size: 18px;
+            }
+        </style>
+
+    </head>
+    <body>
+        <h1>Awsome Superheroes</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Super Identity</th>
+                    <th>Civilian Identity</th>
+                    <th>Picture</th>
+                    <th>Superpowers</th>
+                    <th>Weaknesses</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>Storm</th>
+                    <td>Ororo&nbsp;Munroe</td>
+                    <td><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarvel.fandom.com%2Fwiki%2FOroro_Munroe_%2528Earth-616%2529&psig=AOvVaw0XmkBs-vwE2GHGu_AXJ8PE&ust=1696748481727000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODmrOau44EDFQAAAAAdAAAAABAx"><img class="picture" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarvel.fandom.com%2Fwiki%2FOroro_Munroe_%2528Earth-616%2529&psig=AOvVaw0XmkBs-vwE2GHGu_AXJ8PE&ust=1696748481727000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODmrOau44EDFQAAAAAdAAAAABAx" alt="Storm Pic"></a></td>
+                    <td>
+                        <ul>
+                            <li>Atmokinesis (Weather Control)</li>
+                            <li>Flight</li>
+                            <li>Temperature and pressure resistance</li>
+                        </ul>
+                    </td>
+                    <td>>Extreme claustrophobia<td>
+                </tr>
+                <tr>
+                    <th>Black Widow</th>
+                    <td>Natasha&nbsp;Romanova</td>
+                    <td><a href=""><img class="picture" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBlack_Widow_%2528Natasha_Romanova%2529&psig=AOvVaw1Z_k074yPFg4pfzatyTnig&ust=1696748400347000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDTtb-u44EDFQAAAAAdAAAAABAW" alt="Black Widow Pic"></a></td>
+                    <td>No superpowers but is a very skilled fighter</td>
+                    <td>Susceptible to brainwashing</td>
+                </tr>
+                <tr>
+                    <th>JackieBoyMan</th>
+                    <td>Jackie</td>
+                    <td><a href="Screenshot_20231007_010652_Instagram.jpg"><img class="picture" src="Screenshot_20231007_010652_Instagram.jpg" alt="Sup Name Pic"></a></td>
+                    <td>
+                        <ul>
+                            <li>Super Strength</li>
+                            <li>Speed</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                          <li>Fear of hights</li>
+                          <li>Family and Friends</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Zatanna</th>
+                    <td>Zatanna&nbsp;Zatara</td>
+                    <td><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdarians-dc-extended-universe.fandom.com%2Fwiki%2FZatanna&psig=AOvVaw3Kz5cbtqWeL7gv2hDEiwYh&ust=1696748343840000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCVqKSu44EDFQAAAAAdAAAAABAI"><img class="picture" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdarians-dc-extended-universe.fandom.com%2Fwiki%2FZatanna&psig=AOvVaw3Kz5cbtqWeL7gv2hDEiwYh&ust=1696748343840000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCVqKSu44EDFQAAAAAdAAAAABAI" alt="Zatanna Pic"></a></td>
+                    <td>
+                        <ul>
+                            <li>Various forms of magic</li>
+                            <li>Occult and demonology expert</li>
+                            <li>Master stage magician and escape artist</li>
+                        </ul>
+                    </td>
+                    <td>Losing her voice</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
